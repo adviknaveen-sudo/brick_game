@@ -1,7 +1,6 @@
 # Python Brick Breaker
 
-This project is a simple and funny Brick Breaker with an easy level-editor, written in Python and created by 2 French students [Lucas Willems](http://www.lucaswillems.com) and Aymeric Lhullier for their ISN (Initiation aux Sciences du Numérique) project.
-
+This project is a simple and funny Brick Breaker with an easy level-editor, written in Python and created by 3 students- Team Brick-breaker for their Mesa Hackton.
 ## Requirements
 
 - Python 3
@@ -30,3 +29,4 @@ Creating and editing levels is also an easy task:
 	1. Left click on a brick at the bottom of the screen to select its color.
 	2. Left click on a brick at the middle/top of the screen to make it take the selected color.
 	3. Right click on a brick at the middle/top of the screen to delete it.
+
